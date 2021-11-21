@@ -1,0 +1,11 @@
+__pycache__
+.DS_STORE
+.venv
+.vscode
+.idea
+.env
+.env.backup
+.temp
+*.env
+*.env.backup
+*.log
